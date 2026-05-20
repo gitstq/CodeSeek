@@ -1,0 +1,8 @@
+# CodeSeek - Zero Dependencies
+# This project uses only Python standard library
+# No external dependencies required
+
+# Optional development dependencies:
+# pytest>=7.0
+# black>=22.0
+# flake8>=4.0
